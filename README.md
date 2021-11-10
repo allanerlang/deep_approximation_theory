@@ -1,0 +1,2 @@
+# Simulations
+This repository contains simulations and graphics related to approximation theory and neural networks. Most of the simulations are related to constructions in the paper [*"Universal Approximation with Deep Narrow Networks"*](http://proceedings.mlr.press/v125/kidger20a/kidger20a.pdf) by P. Kidger and T. Lyons. 
